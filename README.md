@@ -1,7 +1,7 @@
 # DTU-Web3-Builderthon
 
 
-# This example shows How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat
+
 
 
 
